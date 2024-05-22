@@ -1,0 +1,38 @@
+.iconos {
+    width: 5%;
+    height: 5%;
+    border-radius: 50%;
+    box-shadow: 5px 5px 50px 5px;
+    object-fit: cover;
+}
+
+.header{
+    color:rgb(0, 0, 0);
+    background-color: aquamarine;
+    font-weight: bolder;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    font-family: 'DM Sans', Courier, monospace;
+    color: white;
+}
+
+h1{
+    font-family: 'DM Sans', Courier, monospace;
+    color: white;
+}
+
+body{
+    background-color: rgb(38, 40, 41);
+}
+
+#leftText{
+    text-align: justify;
+    color: aqua;
+}
+
+.positionright{
+    float: right;
+}
